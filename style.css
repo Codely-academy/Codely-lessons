@@ -1,0 +1,35 @@
+h1 {
+  background-color: aquamarine;
+  text-align: center;
+  margin: 0;
+}
+h3 {
+  margin: 0;
+}
+.a-tag {
+  text-align: center;
+  background-color: rgb(143, 200, 193);
+  padding: 10px;
+}
+div a {
+  text-decoration: none;
+}
+.content {
+  background-color: white;
+  height: 400px;
+  /* width: 400px; */
+}
+main {
+  padding: 10px;
+  background-color: #ffc8dd;
+}
+.footer {
+  background-color: rgb(166, 223, 198);
+  text-align: center;
+  padding: 8px;
+  margin: 0;
+}
+.img {
+  width: 100vw;
+  height: 40vh;
+}
